@@ -5,9 +5,9 @@ builder: "ภวัต ลีชาแสน (บีม)"
 builder_info: ""
 thumbnail: "/images/2022/37/01.jpg"
 links:
-github: "https://github.com/Igonazio/Sick-Pig-Classifier"
-facebook: "https://facebook.com/aibuildersx/posts/416533550515090"
-blog: "https://medium.com/@beamsisb/sick-pig-classifier-394db89c3c5d"
+    github: "https://github.com/Igonazio/Sick-Pig-Classifier"
+    facebook: "https://facebook.com/aibuildersx/posts/416533550515090"
+    blog: "https://medium.com/@beamsisb/sick-pig-classifier-394db89c3c5d"
 ---
 
 ![image](/images/2022/37/01.jpg)

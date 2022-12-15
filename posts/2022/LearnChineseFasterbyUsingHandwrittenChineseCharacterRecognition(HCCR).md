@@ -5,9 +5,9 @@ builder: "ภควุฒิ ธรรมาวุฒิกุล (Army)"
 builder_info: ""
 thumbnail: "/images/2022/50/01.jpg"
 links:
-github: "https://github.com/GithubArmy/Handwritten-Chinese-Character-Recognition"
-facebook: "https://facebook.com/aibuildersx/posts/429664732535305"
-blog: "https://medium.com/@army.prakawut/learn-chinese-faster-by-using-handwritten-chinese-character-recognition-hccr-67b23c63fb9"
+    github: "https://github.com/GithubArmy/Handwritten-Chinese-Character-Recognition"
+    facebook: "https://facebook.com/aibuildersx/posts/429664732535305"
+    blog: "https://medium.com/@army.prakawut/learn-chinese-faster-by-using-handwritten-chinese-character-recognition-hccr-67b23c63fb9"
 ---
 
 ![image](/images/2022/50/01.jpg)

@@ -5,9 +5,9 @@ builder: "นนทพรรษ วงษ์กัณหา (นน)"
 builder_info: ""
 thumbnail: "/images/2022/30/01.jpg"
 links:
-github: "https://github.com/Nonnyss/Ms-Wav2Vec2-Finetune"
-facebook: "https://facebook.com/aibuildersx/posts/411804267654685"
-blog: "https://medium.com/@nonthapan.wong/music-recognition-a6c9acea23e1"
+    github: "https://github.com/Nonnyss/Ms-Wav2Vec2-Finetune"
+    facebook: "https://facebook.com/aibuildersx/posts/411804267654685"
+    blog: "https://medium.com/@nonthapan.wong/music-recognition-a6c9acea23e1"
 ---
 
 ![image](/images/2022/30/01.jpg)

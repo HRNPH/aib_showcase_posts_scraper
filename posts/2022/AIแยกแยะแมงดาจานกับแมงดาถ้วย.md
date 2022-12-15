@@ -5,9 +5,9 @@ builder: "ภัคพล อาจบุราย (หลุยส์)"
 builder_info: ""
 thumbnail: "/images/2022/39/01.jpg"
 links:
-github: "https://github.com/alicelouis47/maengda-classification-detection"
-facebook: "https://facebook.com/aibuildersx/posts/417931133708665"
-blog: "https://medium.com/@phakkhaphonartburai/ai-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%81%E0%B8%A2%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%A9-784bf470c592"
+    github: "https://github.com/alicelouis47/maengda-classification-detection"
+    facebook: "https://facebook.com/aibuildersx/posts/417931133708665"
+    blog: "https://medium.com/@phakkhaphonartburai/ai-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%81%E0%B8%A2%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%A9-784bf470c592"
 ---
 
 ![image](/images/2022/39/01.jpg)

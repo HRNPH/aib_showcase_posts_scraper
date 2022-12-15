@@ -5,9 +5,9 @@ builder: "zeiosis@"
 builder_info: ""
 thumbnail: "/images/2022/38/01.jpg"
 links:
-github: "https://github.com/zeiosis/ffnet-summary-prediction"
-facebook: "https://facebook.com/aibuildersx/posts/417209980447447"
-blog: "https://medium.com/@cryingptosis/nlp-for-genre-predictions-on-ffnet-an-antithesis-to-utilitarianism-4380524ca1fc"
+    github: "https://github.com/zeiosis/ffnet-summary-prediction"
+    facebook: "https://facebook.com/aibuildersx/posts/417209980447447"
+    blog: "https://medium.com/@cryingptosis/nlp-for-genre-predictions-on-ffnet-an-antithesis-to-utilitarianism-4380524ca1fc"
 ---
 
 ![image](/images/2022/38/01.jpg)

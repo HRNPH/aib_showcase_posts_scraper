@@ -5,9 +5,9 @@ builder: "ศุภโชค บุตรดีขันธ์ (บูม)"
 builder_info: ""
 thumbnail: "/images/2022/48/01.jpg"
 links:
-github: "https://github.com/Mikune00/ai-text-sum"
-facebook: "https://facebook.com/aibuildersx/posts/427644922737286"
-blog: "https://medium.com/@kaitosolo18/terms-and-condition-summarization-d7f0680f752b"
+    github: "https://github.com/Mikune00/ai-text-sum"
+    facebook: "https://facebook.com/aibuildersx/posts/427644922737286"
+    blog: "https://medium.com/@kaitosolo18/terms-and-condition-summarization-d7f0680f752b"
 ---
 
 ![image](/images/2022/48/01.jpg)

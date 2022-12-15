@@ -5,9 +5,9 @@ builder: "วรกาญจน์ ลาสุดี (ปีใหม่)"
 builder_info: ""
 thumbnail: "/images/2022/60/01.jpg"
 links:
-github: "https://github.com/19xx47/Find-water-AI-builders-project"
-facebook: "https://facebook.com/aibuildersx/posts/447914850710293"
-blog: "https://medium.com/@worakan.lasudee/found-water-from-satellite-images-by-segmentation-using-u-net-with-pytorch-7b3b0a8abf1d"
+    github: "https://github.com/19xx47/Find-water-AI-builders-project"
+    facebook: "https://facebook.com/aibuildersx/posts/447914850710293"
+    blog: "https://medium.com/@worakan.lasudee/found-water-from-satellite-images-by-segmentation-using-u-net-with-pytorch-7b3b0a8abf1d"
 ---
 
 ![image](/images/2022/60/01.jpg)

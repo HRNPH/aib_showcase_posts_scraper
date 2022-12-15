@@ -5,9 +5,9 @@ builder: "ณภัทร เสรีรักษ์ (นีร)"
 builder_info: ""
 thumbnail: "/images/2022/65/01.jpg"
 links:
-github: "https://github.com/neennera/AI_single-music-note-classification"
-facebook: "https://facebook.com/aibuildersx/posts/452054363629675"
-blog: "https://neennera.medium.com/single-note-music-classification-by-convolutional-neural-networks-5f72434d139a"
+    github: "https://github.com/neennera/AI_single-music-note-classification"
+    facebook: "https://facebook.com/aibuildersx/posts/452054363629675"
+    blog: "https://neennera.medium.com/single-note-music-classification-by-convolutional-neural-networks-5f72434d139a"
 ---
 
 ![image](/images/2022/65/01.jpg)

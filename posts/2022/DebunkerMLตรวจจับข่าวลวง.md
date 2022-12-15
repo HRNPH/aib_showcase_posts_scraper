@@ -5,9 +5,9 @@ builder: "นิธิวัฒน์ สิริรัตนชัยกุล
 builder_info: ""
 thumbnail: "/images/2022/42/01.jpg"
 links:
-github: "https://github.com/nitsirs/debunker"
-facebook: "https://facebook.com/aibuildersx/posts/419846963517082"
-blog: "https://medium.com/@nitsirs/detecting-thai-fake-news-with-machine-learning-5c1bb3430bf3"
+    github: "https://github.com/nitsirs/debunker"
+    facebook: "https://facebook.com/aibuildersx/posts/419846963517082"
+    blog: "https://medium.com/@nitsirs/detecting-thai-fake-news-with-machine-learning-5c1bb3430bf3"
 ---
 
 ![image](/images/2022/42/01.jpg)

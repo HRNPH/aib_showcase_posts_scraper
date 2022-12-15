@@ -5,9 +5,9 @@ builder: "ฆนัท บุญจง (เค)"
 builder_info: ""
 thumbnail: "/images/2022/56/01.jpg"
 links:
-github: "https://github.com/KhanutBJ/Migraine_CNN"
-facebook: "https://facebook.com/aibuildersx/posts/438384788329966"
-blog: "https://medium.com/@vwgprvvtsf/showcase-120bc69fb720"
+    github: "https://github.com/KhanutBJ/Migraine_CNN"
+    facebook: "https://facebook.com/aibuildersx/posts/438384788329966"
+    blog: "https://medium.com/@vwgprvvtsf/showcase-120bc69fb720"
 ---
 
 ![image](/images/2022/56/01.jpg)

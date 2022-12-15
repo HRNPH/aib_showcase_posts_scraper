@@ -5,9 +5,9 @@ builder: "โชติวัฒน์ ตั้งสถาพร (ไนน์)
 builder_info: ""
 thumbnail: "/images/2022/21/01.jpg"
 links:
-github: "https://colab.research.google.com/github/cninet/BACK/blob/main/BACK.ipynb"
-facebook: "https://facebook.com/aibuildersx/posts/405337768301335"
-blog: "https://medium.com/@cninet.std/back-blind-all-can-know-action-captioning-a10a3fa85695"
+    github: "https://colab.research.google.com/github/cninet/BACK/blob/main/BACK.ipynb"
+    facebook: "https://facebook.com/aibuildersx/posts/405337768301335"
+    blog: "https://medium.com/@cninet.std/back-blind-all-can-know-action-captioning-a10a3fa85695"
 ---
 
 ![image](/images/2022/21/01.jpg)

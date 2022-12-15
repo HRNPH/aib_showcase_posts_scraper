@@ -5,9 +5,9 @@ builder: "กรกมล แสงสว่าง (เบลล์)"
 builder_info: ""
 thumbnail: "/images/2022/52/01.jpg"
 links:
-github: "https://github.com/Berubell9/American-sign-language"
-facebook: "https://facebook.com/aibuildersx/posts/434912155343896"
-blog: "https://medium.com/@15192/american-sign-language-asl-b9f1c1a6dc01"
+    github: "https://github.com/Berubell9/American-sign-language"
+    facebook: "https://facebook.com/aibuildersx/posts/434912155343896"
+    blog: "https://medium.com/@15192/american-sign-language-asl-b9f1c1a6dc01"
 ---
 
 ![image](/images/2022/52/01.jpg)

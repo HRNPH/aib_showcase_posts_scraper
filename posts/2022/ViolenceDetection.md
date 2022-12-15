@@ -5,9 +5,9 @@ builder: "ชินวัตร นาไชยธง (ม่อน)"
 builder_info: ""
 thumbnail: "/images/2022/22/01.jpg"
 links:
-github: "https://github.com/monshinawatra/ViolenceDetection"
-facebook: "https://facebook.com/aibuildersx/posts/405998371568608"
-blog: "https://medium.com/@monchinawat/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-video-classification-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-d2bbf894149f"
+    github: "https://github.com/monshinawatra/ViolenceDetection"
+    facebook: "https://facebook.com/aibuildersx/posts/405998371568608"
+    blog: "https://medium.com/@monchinawat/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-video-classification-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-d2bbf894149f"
 ---
 
 ![image](/images/2022/22/01.jpg)

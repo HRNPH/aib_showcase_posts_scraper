@@ -5,9 +5,9 @@ builder: "ปรินทพัฒน์ เพ็งพันธุ์ (ปร�
 builder_info: ""
 thumbnail: "/images/2022/62/01.jpg"
 links:
-github: "https://parinzee.github.io/ThaiQuestionGenerationMT5/"
-facebook: "https://facebook.com/aibuildersx/posts/450060740495704"
-blog: "https://medium.com/@parinzee/studying-let-an-ai-generate-q-as-to-quiz-you-9ef27b1554d"
+    github: "https://parinzee.github.io/ThaiQuestionGenerationMT5/"
+    facebook: "https://facebook.com/aibuildersx/posts/450060740495704"
+    blog: "https://medium.com/@parinzee/studying-let-an-ai-generate-q-as-to-quiz-you-9ef27b1554d"
 ---
 
 ![image](/images/2022/62/01.jpg)

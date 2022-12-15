@@ -5,9 +5,9 @@ builder: "ณฐกร คเชนทร (เท็น)"
 builder_info: ""
 thumbnail: "/images/2022/29/01.jpg"
 links:
-github: "https://github.com/TENet1010/cycleGAN_Night2day"
-facebook: "https://facebook.com/aibuildersx/posts/411124194389359"
-blog: "https://medium.com/@nattakorn2713/image-transfer-night-to-day-and-day-to-night-2086edc6b298"
+    github: "https://github.com/TENet1010/cycleGAN_Night2day"
+    facebook: "https://facebook.com/aibuildersx/posts/411124194389359"
+    blog: "https://medium.com/@nattakorn2713/image-transfer-night-to-day-and-day-to-night-2086edc6b298"
 ---
 
 ![image](/images/2022/29/01.jpg)

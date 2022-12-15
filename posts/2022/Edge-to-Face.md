@@ -5,9 +5,9 @@ builder: "นิธิศรัฎฐ์ พุฒิภาพงศ์ (พล�
 builder_info: ""
 thumbnail: "/images/2022/26/01.jpg"
 links:
-github: "https://github.com/PluzNtp/Edge-to-Face"
-facebook: "https://facebook.com/aibuildersx/posts/409045037930608"
-blog: "https://medium.com/@nitisarath/edge-to-face-683005cdbbb6"
+    github: "https://github.com/PluzNtp/Edge-to-Face"
+    facebook: "https://facebook.com/aibuildersx/posts/409045037930608"
+    blog: "https://medium.com/@nitisarath/edge-to-face-683005cdbbb6"
 ---
 
 ![image](/images/2022/26/01.jpg)

@@ -5,9 +5,9 @@ builder: "เทพบดินทร์ ใจอินสม (ฟู่)"
 builder_info: ""
 thumbnail: "/images/2022/54/01.jpg"
 links:
-github: "https://github.com/thepbordin/Obstacle-Detection-for-Blind-people"
-facebook: "https://facebook.com/aibuildersx/posts/436406668527778"
-blog: "https://medium.com/@thepbordinjaiinsom/obstacle-detection-for-blind-people-d33e3c4e11dd"
+    github: "https://github.com/thepbordin/Obstacle-Detection-for-Blind-people"
+    facebook: "https://facebook.com/aibuildersx/posts/436406668527778"
+    blog: "https://medium.com/@thepbordinjaiinsom/obstacle-detection-for-blind-people-d33e3c4e11dd"
 ---
 
 ![image](/images/2022/54/01.jpg)

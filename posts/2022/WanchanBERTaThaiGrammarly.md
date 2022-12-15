@@ -5,9 +5,9 @@ builder: "อิทธิพัฒน์ ปานขำ (มาร์จิ้�
 builder_info: ""
 thumbnail: "/images/2022/35/01.jpg"
 links:
-github: "https://colab.research.google.com/github/bookpanda/WanchanBERTa-Thai-Grammarly/blob/main/demo.ipynb"
-facebook: "https://facebook.com/aibuildersx/posts/415235220644923"
-blog: "https://medium.com/@marginpankam/wanchanberta-thai-grammarly-5010671797c7"
+    github: "https://colab.research.google.com/github/bookpanda/WanchanBERTa-Thai-Grammarly/blob/main/demo.ipynb"
+    facebook: "https://facebook.com/aibuildersx/posts/415235220644923"
+    blog: "https://medium.com/@marginpankam/wanchanberta-thai-grammarly-5010671797c7"
 ---
 
 ![image](/images/2022/35/01.jpg)

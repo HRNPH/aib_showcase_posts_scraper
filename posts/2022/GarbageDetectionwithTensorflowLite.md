@@ -5,9 +5,9 @@ builder: "กันต์พัจน์ วิเศษสุข (กัน)"
 builder_info: ""
 thumbnail: "/images/2022/36/01.jpg"
 links:
-github: "https://github.com/24GUNV/aibuilders/tree/main/object_detection/images"
-facebook: "https://facebook.com/aibuildersx/posts/415865783915200"
-blog: "https://medium.com/@24progun/object-detection-using-tensorflow-lite-80da8d75c03b"
+    github: "https://github.com/24GUNV/aibuilders/tree/main/object_detection/images"
+    facebook: "https://facebook.com/aibuildersx/posts/415865783915200"
+    blog: "https://medium.com/@24progun/object-detection-using-tensorflow-lite-80da8d75c03b"
 ---
 
 ![image](/images/2022/36/01.jpg)

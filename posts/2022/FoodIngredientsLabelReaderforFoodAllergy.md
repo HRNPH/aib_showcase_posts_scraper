@@ -5,9 +5,9 @@ builder: "พีรณัฐ เมฆวิศิษฏ์ (ปอนด์)"
 builder_info: ""
 thumbnail: "/images/2022/25/01.jpg"
 links:
-github: "https://github.com/ponmak/Food-ingredients-label-reader"
-facebook: "https://facebook.com/aibuildersx/posts/408346911333754"
-blog: "https://medium.com/@peeranut.4498/food-ingredients-label-reader-for-food-allergy-6dea1de06d2"
+    github: "https://github.com/ponmak/Food-ingredients-label-reader"
+    facebook: "https://facebook.com/aibuildersx/posts/408346911333754"
+    blog: "https://medium.com/@peeranut.4498/food-ingredients-label-reader-for-food-allergy-6dea1de06d2"
 ---
 
 ![image](/images/2022/25/01.jpg)

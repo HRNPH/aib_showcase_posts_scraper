@@ -5,9 +5,9 @@ builder: "เจษฎา ปราณี (แจ็ค)"
 builder_info: ""
 thumbnail: "/images/2022/23/01.jpg"
 links:
-github: "https://github.com/JackJessada/fake_product_detect"
-facebook: "https://facebook.com/aibuildersx/posts/406851801483265"
-blog: "https://medium.com/@jessadajackpranee/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A-e-commerce-c2d1bb142e2e"
+    github: "https://github.com/JackJessada/fake_product_detect"
+    facebook: "https://facebook.com/aibuildersx/posts/406851801483265"
+    blog: "https://medium.com/@jessadajackpranee/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A-e-commerce-c2d1bb142e2e"
 ---
 
 ![image](/images/2022/23/01.jpg)

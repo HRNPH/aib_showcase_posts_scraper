@@ -5,9 +5,9 @@ builder: "ภานุวัฒน์ วงศ์พัฒนวุฒิ (ก�
 builder_info: ""
 thumbnail: "/images/2022/41/01.jpg"
 links:
-github: "https://github.com/kongonggong"
-facebook: "https://facebook.com/aibuildersx/posts/419222536912858"
-blog: "https://medium.com/@kongwongpattanawut_61910/microplastic-detection-and-collect-statistical-tebular-data-8d09339e79d"
+    github: "https://github.com/kongonggong"
+    facebook: "https://facebook.com/aibuildersx/posts/419222536912858"
+    blog: "https://medium.com/@kongwongpattanawut_61910/microplastic-detection-and-collect-statistical-tebular-data-8d09339e79d"
 ---
 
 ![image](/images/2022/41/01.jpg)

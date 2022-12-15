@@ -5,9 +5,9 @@ builder: "วชิรวิทย์ ไชยมาตย์ (เจ้าน�
 builder_info: ""
 thumbnail: "/images/2022/45/01.jpg"
 links:
-github: "https://github.com/KaiZer003/LamiaceaeClassify"
-facebook: "https://facebook.com/aibuildersx/posts/424327439735701"
-blog: "https://medium.com/@wachirawit003/image-classification-%E0%B9%80%E0%B9%80%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2-3-%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94-480b9b823d85"
+    github: "https://github.com/KaiZer003/LamiaceaeClassify"
+    facebook: "https://facebook.com/aibuildersx/posts/424327439735701"
+    blog: "https://medium.com/@wachirawit003/image-classification-%E0%B9%80%E0%B9%80%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2-3-%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94-480b9b823d85"
 ---
 
 ![image](/images/2022/45/01.jpg)

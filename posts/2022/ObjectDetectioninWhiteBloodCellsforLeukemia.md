@@ -5,9 +5,9 @@ builder: "แพรวา ชูบ้านนา (แพรว)"
 builder_info: ""
 thumbnail: "/images/2022/64/01.jpg"
 links:
-github: "https://github.com/praewery/objectdetction-White_blood_cell"
-facebook: "https://facebook.com/aibuildersx/posts/451374247031020"
-blog: "https://medium.com/@cytokinin8/object-detection-in-white-blood-cell-60273002fdb3"
+    github: "https://github.com/praewery/objectdetction-White_blood_cell"
+    facebook: "https://facebook.com/aibuildersx/posts/451374247031020"
+    blog: "https://medium.com/@cytokinin8/object-detection-in-white-blood-cell-60273002fdb3"
 ---
 
 ![image](/images/2022/64/01.jpg)

@@ -5,9 +5,9 @@ builder: "โชติอนันต์ทรัพย์ โสภาเคน
 builder_info: ""
 thumbnail: "/images/2022/27/01.jpg"
 links:
-github: "https://github.com/ChotanansubSoph/TextDoe"
-facebook: "https://facebook.com/aibuildersx/posts/409755317859580"
-blog: "https://medium.com/@chotanansub.s/text-classification-%E0%B8%88%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%81%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-db0ef5abc676"
+    github: "https://github.com/ChotanansubSoph/TextDoe"
+    facebook: "https://facebook.com/aibuildersx/posts/409755317859580"
+    blog: "https://medium.com/@chotanansub.s/text-classification-%E0%B8%88%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%81%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-db0ef5abc676"
 ---
 
 ![image](/images/2022/27/01.jpg)

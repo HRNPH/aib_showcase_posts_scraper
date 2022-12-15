@@ -5,9 +5,9 @@ builder: "มณิสรา แซ่จัน (ฟิล์ม)"
 builder_info: ""
 thumbnail: "/images/2022/44/01.jpg"
 links:
-github: "https://github.com/ManissaraZ0/AI-Builders-Deploy"
-facebook: "https://facebook.com/aibuildersx/posts/421598560008589"
-blog: "https://medium.com/@manissara2548/classical-music-generator-d9fc911abc9c"
+    github: "https://github.com/ManissaraZ0/AI-Builders-Deploy"
+    facebook: "https://facebook.com/aibuildersx/posts/421598560008589"
+    blog: "https://medium.com/@manissara2548/classical-music-generator-d9fc911abc9c"
 ---
 
 ![image](/images/2022/44/01.jpg)

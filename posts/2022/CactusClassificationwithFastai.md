@@ -5,9 +5,9 @@ builder: "ปัณณธร กรุดทอง (โฟกัส)"
 builder_info: ""
 thumbnail: "/images/2022/24/01.jpg"
 links:
-github: "https://github.com/Fosacius/cactus_pred"
-facebook: "https://facebook.com/aibuildersx/posts/407556248079487"
-blog: "https://medium.com/@neko2nego/cactus-classification-with-fast-ai-393f8a64cadc"
+    github: "https://github.com/Fosacius/cactus_pred"
+    facebook: "https://facebook.com/aibuildersx/posts/407556248079487"
+    blog: "https://medium.com/@neko2nego/cactus-classification-with-fast-ai-393f8a64cadc"
 ---
 
 ![image](/images/2022/24/01.jpg)

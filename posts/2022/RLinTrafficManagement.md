@@ -5,9 +5,9 @@ builder: "ณดล พิพัฒนติกานันท์ (ไตตั�
 builder_info: ""
 thumbnail: "/images/2022/49/01.jpg"
 links:
-github: "https://github.com/nadoltitan/RL_in_Traffic_Management"
-facebook: "https://facebook.com/aibuildersx/posts/429097575925354"
-blog: "https://medium.com/@nadoltitan1/%E0%B8%A5%E0%B8%94%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-reinforcement-learning-d3b9c6014863"
+    github: "https://github.com/nadoltitan/RL_in_Traffic_Management"
+    facebook: "https://facebook.com/aibuildersx/posts/429097575925354"
+    blog: "https://medium.com/@nadoltitan1/%E0%B8%A5%E0%B8%94%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-reinforcement-learning-d3b9c6014863"
 ---
 
 ![image](/images/2022/49/01.jpg)

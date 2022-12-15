@@ -5,9 +5,9 @@ builder: "จิรา กุลจิราพงษ์ (จิรา)"
 builder_info: ""
 thumbnail: "/images/2022/63/01.jpg"
 links:
-github: "https://github.com/CCSleep/utau-pitch-ml/"
-facebook: "https://facebook.com/aibuildersx/posts/450681343766977"
-blog: "https://medium.com/@CCSleep/using-machine-learning-to-create-auto-pitch-writer-for-utau-eec2d104236a"
+    github: "https://github.com/CCSleep/utau-pitch-ml/"
+    facebook: "https://facebook.com/aibuildersx/posts/450681343766977"
+    blog: "https://medium.com/@CCSleep/using-machine-learning-to-create-auto-pitch-writer-for-utau-eec2d104236a"
 ---
 
 ![image](/images/2022/63/01.jpg)

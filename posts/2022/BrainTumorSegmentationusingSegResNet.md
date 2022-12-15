@@ -5,9 +5,9 @@ builder: "ณัฐวดี ลีภัทรกิจ (กิ่งแก้�
 builder_info: ""
 thumbnail: "/images/2022/43/01.jpg"
 links:
-github: "https://github.com/Kkingssss/Brain-Tumor-Segmentation/tree/main"
-facebook: "https://facebook.com/aibuildersx/posts/420395566795555"
-blog: "https://medium.com/@nattawadee.lee/brain-tumor-segmentation-using-swin-unet-transformers-d003cbe7ba0f"
+    github: "https://github.com/Kkingssss/Brain-Tumor-Segmentation/tree/main"
+    facebook: "https://facebook.com/aibuildersx/posts/420395566795555"
+    blog: "https://medium.com/@nattawadee.lee/brain-tumor-segmentation-using-swin-unet-transformers-d003cbe7ba0f"
 ---
 
 ![image](/images/2022/43/01.jpg)

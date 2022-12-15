@@ -5,9 +5,9 @@ builder: "พลกฤต สาตสิน (เจ)"
 builder_info: ""
 thumbnail: "/images/2022/57/01.jpg"
 links:
-github: "https://github.com/urseamajoris/PsychNLP"
-facebook: "https://facebook.com/aibuildersx/posts/441008288067616"
-blog: "https://medium.com/@urseamlaccs/psychnlp-part-1-d8180740c0ec"
+    github: "https://github.com/urseamajoris/PsychNLP"
+    facebook: "https://facebook.com/aibuildersx/posts/441008288067616"
+    blog: "https://medium.com/@urseamlaccs/psychnlp-part-1-d8180740c0ec"
 ---
 
 ![image](/images/2022/57/01.jpg)

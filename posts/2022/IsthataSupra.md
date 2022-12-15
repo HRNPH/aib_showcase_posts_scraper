@@ -5,9 +5,9 @@ builder: "จิตรบุณย์ ทรัพย์สินทวีลา
 builder_info: ""
 thumbnail: "/images/2022/40/01.jpg"
 links:
-github: "https://github.com/BikiniGordon/Is-that-a-Supra"
-facebook: "https://facebook.com/aibuildersx/posts/418635413638237"
-blog: "https://medium.com/@gatchanminecraft/is-that-a-supra-thai-version-405cb2231f2b"
+    github: "https://github.com/BikiniGordon/Is-that-a-Supra"
+    facebook: "https://facebook.com/aibuildersx/posts/418635413638237"
+    blog: "https://medium.com/@gatchanminecraft/is-that-a-supra-thai-version-405cb2231f2b"
 ---
 
 ![image](/images/2022/40/01.jpg)

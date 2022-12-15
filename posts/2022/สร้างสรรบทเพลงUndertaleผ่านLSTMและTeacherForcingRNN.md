@@ -5,9 +5,9 @@ builder: "นพวิทย์ ตันติศิริวัฒน์ (ภ�
 builder_info: ""
 thumbnail: "/images/2022/46/01.jpg"
 links:
-github: "https://github.com/Noppawit-Tantisiriwat/AIB2022-Undertale-Music-Generation"
-facebook: "https://facebook.com/aibuildersx/posts/424934103008368"
-blog: "https://medium.com/@noppawitpeam/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87-undertale-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-lstm-%E0%B9%81%E0%B8%A5%E0%B8%B0-teacher-forcing-6053a939bc62"
+    github: "https://github.com/Noppawit-Tantisiriwat/AIB2022-Undertale-Music-Generation"
+    facebook: "https://facebook.com/aibuildersx/posts/424934103008368"
+    blog: "https://medium.com/@noppawitpeam/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87-undertale-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-lstm-%E0%B9%81%E0%B8%A5%E0%B8%B0-teacher-forcing-6053a939bc62"
 ---
 
 ![image](/images/2022/46/01.jpg)

@@ -5,9 +5,9 @@ builder: "ธนอนันท์ เฉลิมพันธ์ (เอ็ม)
 builder_info: ""
 thumbnail: "/images/2022/55/01.jpg"
 links:
-github: "https://github.com/Tanaanan/AOC_ATK_OCR_Classification"
-facebook: "https://facebook.com/aibuildersx/posts/437047961796982"
-blog: "www.shorturl.at/apGX5"
+    github: "https://github.com/Tanaanan/AOC_ATK_OCR_Classification"
+    facebook: "https://facebook.com/aibuildersx/posts/437047961796982"
+    blog: "www.shorturl.at/apGX5"
 ---
 
 ![image](/images/2022/55/01.jpg)

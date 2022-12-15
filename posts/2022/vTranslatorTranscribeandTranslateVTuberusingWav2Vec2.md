@@ -5,9 +5,9 @@ builder: "ธนภณ ทองจำนงค์ (ธันย์)"
 builder_info: ""
 thumbnail: "/images/2022/31/01.jpg"
 links:
-github: "https://github.com/thunni-noi/vTranslator-prototype"
-facebook: "https://facebook.com/aibuildersx/posts/412504900917955"
-blog: "https://medium.com/@thunninoi/vtranslator-vtuber-speech-recognition-with-wav2vec2-cba2e2c4a6df"
+    github: "https://github.com/thunni-noi/vTranslator-prototype"
+    facebook: "https://facebook.com/aibuildersx/posts/412504900917955"
+    blog: "https://medium.com/@thunninoi/vtranslator-vtuber-speech-recognition-with-wav2vec2-cba2e2c4a6df"
 ---
 
 ![image](/images/2022/31/01.jpg)

@@ -5,9 +5,9 @@ builder: "ณยศ สุวัฒโน (ไมค์กี้)"
 builder_info: ""
 thumbnail: "/images/2022/34/01.jpg"
 links:
-github: "https://github.com/Mikey8943/EDM-spectrogram-vae"
-facebook: "https://facebook.com/aibuildersx/posts/414621047373007"
-blog: "https://medium.com/@nayos.su/generating-edm-song-with-vae-variational-autoencoder-spectrogram-eb6dcd5fc4b8"
+    github: "https://github.com/Mikey8943/EDM-spectrogram-vae"
+    facebook: "https://facebook.com/aibuildersx/posts/414621047373007"
+    blog: "https://medium.com/@nayos.su/generating-edm-song-with-vae-variational-autoencoder-spectrogram-eb6dcd5fc4b8"
 ---
 
 ![image](/images/2022/34/01.jpg)

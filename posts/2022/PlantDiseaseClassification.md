@@ -5,9 +5,9 @@ builder: "รัชชานนท์ มุขแก้ว (นนท์)"
 builder_info: ""
 thumbnail: "/images/2022/47/01.jpg"
 links:
-github: "https://github.com/RatchanonMo/plant-diseases-classification"
-facebook: "https://facebook.com/aibuildersx/posts/425577722944006"
-blog: "https://medium.com/@49874/plant-diseases-classification-68b103f624d7"
+    github: "https://github.com/RatchanonMo/plant-diseases-classification"
+    facebook: "https://facebook.com/aibuildersx/posts/425577722944006"
+    blog: "https://medium.com/@49874/plant-diseases-classification-68b103f624d7"
 ---
 
 ![image](/images/2022/47/01.jpg)
