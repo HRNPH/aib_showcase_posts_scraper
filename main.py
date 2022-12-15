@@ -2,6 +2,8 @@ from facebook_scraper import get_posts
 import pandas as pd
 from tqdm import tqdm
 import re
+import os
+import requests
 
 cookies = './cookies.json'
 if cookies:
@@ -53,6 +55,22 @@ for post in get_posts('aibuildersx', pages=60, cookies=cookies): # specify more 
         dataframe = pd.concat([dataframe, pd.DataFrame([post_data])], ignore_index=True)
         # report
         print('Post ', post_data['ID'], ' found.', post_data['title'])
+
+        # if int(post_data['ID']) >= 21:
+        #     # also image download
+        #     root = f"./images/2022/{post_data['ID']}/"
+        #     if not os.path.exists(root):
+        #         os.makedirs(root)
+
+        #     # download title image
+        #     if post_data['title_image']:
+        #         r = requests.get(post_data['title_image'], allow_redirects=True)
+        #         with open(root + '01.jpg', 'wb') as f:
+        #             f.write(r.content)
+        #             print('Title image downloaded.')
+        #     else:
+        #         print('No title image found.')
+
         # early stop
         if counter == 65:
             print('Early stopping.')
