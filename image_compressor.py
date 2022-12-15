@@ -6,10 +6,6 @@ import glob
 import os
 
 
-# image path
-image_path = './images/2022/'
-save_path = 
-
 def compress_images(image_path, save_path, quality=80, scale=500):
     if  not os.path.exists(save_path):
         os.makedirs(save_path)
