@@ -3,14 +3,14 @@ date: "11-7-22"
 title: "vTranslator: Transcribe and Translate VTuber using Wav2Vec2"
 builder: "ธนภณ ทองจำนงค์ (ธันย์)"
 builder_info: ""
-thumbnail: "/images/2022/31/31.jpg"
+thumbnail: "/images/2022/31/01.jpg"
 links:
 github: "https://github.com/thunni-noi/vTranslator-prototype"
 facebook: "https://facebook.com/aibuildersx/posts/412504900917955"
 blog: "https://medium.com/@thunninoi/vtranslator-vtuber-speech-recognition-with-wav2vec2-cba2e2c4a6df"
 ---
 
-![image](/images/2022/31/31.jpg)
+![image](/images/2022/31/01.jpg)
 
 - vTranslator คือสคริปต์ที่จะ generate ซับไตเติลของคลิปนั้นๆออกมาเป็นภาษาที่ต้องการ โดยเป็นการรวมกันระหว่างตัว Speech-Recognition Wav2Vec2 และตัว Google Translate เพื่อสร้างไฟล์ซับไตเติล (.srt) ขึ้นมา โดย model Wav2Vec2 ที่นำมาใช้นั้นจะถูก fine-tuned โดยใช้เสียงของ VTuber Hololive เป็นหลัก!,
 - แรงบันดาลใจจากการชอบดู VTuber แต่ไม่เข้าใจภาษาญี่ปุ่น ส่วนใหญ่ดูผ่านคนแปลตาม YouTube; อยากดูให้เข้าใจแบบถ่ายทอดสด,

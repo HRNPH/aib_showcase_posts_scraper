@@ -3,14 +3,14 @@ date: "5-8-22"
 title: "โมเดล CNN สำหรับการจำแนกสัญญาณสมองในระบบ SSVEP-BCI สำหรับไมเกรน (A CNN for Classification Task in SSVEP-BCI for Migraine)"
 builder: "ฆนัท บุญจง (เค)"
 builder_info: ""
-thumbnail: "/images/2022/56/56.jpg"
+thumbnail: "/images/2022/56/01.jpg"
 links:
 github: "https://github.com/KhanutBJ/Migraine_CNN"
 facebook: "https://facebook.com/aibuildersx/posts/438384788329966"
 blog: "https://medium.com/@vwgprvvtsf/showcase-120bc69fb720"
 ---
 
-![image](/images/2022/56/56.jpg)
+![image](/images/2022/56/01.jpg)
 
 - แรงบันดาลใจจากความสนใจในการทำวิจัยทางการแพทย์และชีววิทยา; ไมเกรนเป็นโรคที่ส่งผลกระทบต่อประชากรถึง 10% โดยไม่เลือกเพศและอายุ,
 - โมเดลจำแนกคลื่นสมอง EEG (electroencephalogram) ของผู้ป่วยไมเกรนที่เกิดจาก SSEVP (steady state visually evoked potentials) หรือการให้ผู้ป่วยดูภาพ/เสียงและบันทึกคลื่นสมองผ่าน BCI (brain-computer interface),

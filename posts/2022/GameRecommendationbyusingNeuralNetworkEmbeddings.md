@@ -3,14 +3,14 @@ date: "13-7-22"
 title: "Game Recommendation by using Neural Network Embeddings"
 builder: "มาวิน ศรีชาติ (วิน)"
 builder_info: ""
-thumbnail: "/images/2022/33/33.jpg"
+thumbnail: "/images/2022/33/01.jpg"
 links:
 github: "https://github.com/kyou7797/Game-Recommendation"
 facebook: "https://facebook.com/aibuildersx/posts/413880357447076"
 blog: "https://medium.com/@meow7747/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A1-t-t-game-recommendation-a1598c50553f"
 ---
 
-![image](/images/2022/33/33.jpg)
+![image](/images/2022/33/01.jpg)
 
 - โมเดลแนะนำเกมด้วย neural collaborative filtering,
 - ใช้ชุดข้อมูลเกมใน Steam จาก 70,912 ผู้ใช้และ 10,947 เกมส์; ข้อมูลที่บ่งบอกความชอบคือเวลาที่ใช้ในการเล่น,

@@ -3,14 +3,14 @@ date: "2-8-22"
 title: "A Lip Reader"
 builder: "พุทธคุณ บุญชัย (ข้าวตู)"
 builder_info: ""
-thumbnail: "/images/2022/53/53.jpg"
+thumbnail: "/images/2022/53/01.jpg"
 links:
 github: "https://github.com/Kaotu999/A_Lip_Reader"
 facebook: "https://facebook.com/aibuildersx/posts/435685011933277"
 blog: "https://medium.com/@boonchaiphutthakhun/a-lip-reader-c69be0d8363c"
 ---
 
-![image](/images/2022/53/53.jpg)
+![image](/images/2022/53/01.jpg)
 
 - โมเดลอ่านปากจากวิดีโอด้วย CNN-LSTM,
 - สร้างชุดข้อมูลขึ้นมาเองโดยใช้รูปหน้าคนที่กำลังพูด phoneme จากวิดีโอคนพูดบทหนัง Bee Movie เป็นเวลา 1 ชั่วโมงกว่า (https://www.youtube.com/watch?v=AJCfgXhA5fc),

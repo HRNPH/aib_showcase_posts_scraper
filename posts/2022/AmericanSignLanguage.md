@@ -3,14 +3,14 @@ date: "1-8-22"
 title: "American Sign Language"
 builder: "กรกมล แสงสว่าง (เบลล์)"
 builder_info: ""
-thumbnail: "/images/2022/52/52.jpg"
+thumbnail: "/images/2022/52/01.jpg"
 links:
 github: "https://github.com/Berubell9/American-sign-language"
 facebook: "https://facebook.com/aibuildersx/posts/434912155343896"
 blog: "https://medium.com/@15192/american-sign-language-asl-b9f1c1a6dc01"
 ---
 
-![image](/images/2022/52/52.jpg)
+![image](/images/2022/52/01.jpg)
 
 - แรงบันดาลใจจากการดูวิดีโอที่มีชื่อว่า “ครู…โลกเงียบ” ของ 7Eleven ที่แสดงให้เห็นถึงครูที่เข้าใจหัวอกของเด็กสาวที่ชื่อว่า “บัว” ซึ่งเธอเป็นผู้พิการที่มีความบกพร่องทางการได้ยิน แต่กลับกันแม่ของเธอกลับไม่เข้าใจถึงโลกที่เธออยู่ และเพิกเฉยต่อสิ่งที่เธอเป็น ทำให้เด็กสาวมีความพยายามที่อยากจะพูดให้ได้ เพื่อที่จะให้แม่ของเธอเข้าใจในสิ่งที่เธอนั้นต้องการ (https://www.youtube.com/watch?v=8n6ocbjrZw8),
 - พบข้อจำกัดคือไม่มีชุดข้อมูลภาษามือไทยจึงเริ่มทำโครงงานด้วยชุดข้อมูลตัวอักษรภาษามืออเมริกัน American sign language (ASL) ได้แก่ A , B, C, D, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Nothing, Space และ Del,

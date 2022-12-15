@@ -3,14 +3,14 @@ date: "10-8-22"
 title: "Emotion Detection from Facial Micro-experessions"
 builder: "ครองภพ มั่นคง (ไบรท์)"
 builder_info: ""
-thumbnail: "/images/2022/61/61.jpg"
+thumbnail: "/images/2022/61/01.jpg"
 links:
 github: "https://github.com/Doraminn/Micro-expression/"
 facebook: "https://facebook.com/aibuildersx/posts/449331850568593"
 blog: "https://medium.com/@brightkorn132/%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9D%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%A3-42c31e7cfdc1"
 ---
 
-![image](/images/2022/61/61.jpg)
+![image](/images/2022/61/01.jpg)
 
 - โมเดลตรวจจับอารมณ์เสี้ยววิหรือ Micro-expressions (Anger, Contempt, Happniess, Others, Surprise) จากรูปหน้า,
 - Micro-expression เป็นการแสดงอารมณ์ที่รู้สึกจริง ๆ แต่ต้องโกหกเอาไว้ และเกิดขึ้นเร็วมากจนมนุษย์ทั่วไปไม่สามารถรับรู้ได้เลย ถ้าสมมติมีโมเดลที่สามารถตรวจและระบุอารมณ์นี้ได้อย่างแม่นยำ ก็จะสามารถจับอารมณ์ที่โกหกอยู่ได้และมีประโยชน์เป็นอย่างมากเช่นการจับโกหกในการนำไปเป็นพยานหลักฐานของสืบสวนคดีต่าง ๆ,

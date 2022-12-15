@@ -3,14 +3,14 @@ date: "22-7-22"
 title: "Debunker: ML ตรวจจับข่าวลวง"
 builder: "นิธิวัฒน์ สิริรัตนชัยกุล (ตง)"
 builder_info: ""
-thumbnail: "/images/2022/42/42.jpg"
+thumbnail: "/images/2022/42/01.jpg"
 links:
 github: "https://github.com/nitsirs/debunker"
 facebook: "https://facebook.com/aibuildersx/posts/419846963517082"
 blog: "https://medium.com/@nitsirs/detecting-thai-fake-news-with-machine-learning-5c1bb3430bf3"
 ---
 
-![image](/images/2022/42/42.jpg)
+![image](/images/2022/42/01.jpg)
 
 - โมเดลแยกแยะข่าวปลอมประเภทสาธารณสุข,
 - ใช้ข้อมูลข่าวจริง (2,081 ข่าว) และข่าวเท็จ (2,570 ข่าว) จากชุดข้อมูล LimeSoda (ไม่ใช้ข่าวที่ยังไม่ได้รับการยืนยัน); พยายามหาข้อมูลจากแหล่งอื่นด้วย OCR แล้วแต่ไมไ่ด้ผลดีเท่าที่ควร,

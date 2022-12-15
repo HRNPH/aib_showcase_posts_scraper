@@ -3,14 +3,14 @@ date: "14-8-22"
 title: "Single Note Music Classification"
 builder: "ณภัทร เสรีรักษ์ (นีร)"
 builder_info: ""
-thumbnail: "/images/2022/65/65.jpg"
+thumbnail: "/images/2022/65/01.jpg"
 links:
 github: "https://github.com/neennera/AI_single-music-note-classification"
 facebook: "https://facebook.com/aibuildersx/posts/452054363629675"
 blog: "https://neennera.medium.com/single-note-music-classification-by-convolutional-neural-networks-5f72434d139a"
 ---
 
-![image](/images/2022/65/65.jpg)
+![image](/images/2022/65/01.jpg)
 
 - โมเดลแยกแยะโน้ตเพลงรายตัวจากไฟล์ MIDI ด้วย Convolutional Neural Networks (CNN),
 - แรงบันดาลใจจากความคิดง่ายๆอย่าง “ถ้ามี AI ที่พอฟังเราฮัมเพลงแล้วทายโน๊ตถูกเลยคงดีนะ” ในช่วงนั้นเราได้รู้จักคำว่า “Perfect Pitch” ซึ่งเป็นคำเรียกกลุ่มคนที่ฟังเพลงแล้วรู้โน๊ตในทันที สามารถแยกแยะเสียงโน๊ตได้ตั้งแต่เกิดหรือฝึกเอา จาก ear training บ่อยๆ ประจวบกับโครงการ AI Builders ประกาศพอดี เลยถือโอกาสมาลองฝึก “Perfect Pitch” กับ Model ดู,

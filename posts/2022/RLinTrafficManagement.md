@@ -3,14 +3,14 @@ date: "29-7-22"
 title: "RL in Traffic Management"
 builder: "ณดล พิพัฒนติกานันท์ (ไตตั้น)"
 builder_info: ""
-thumbnail: "/images/2022/49/49.jpg"
+thumbnail: "/images/2022/49/01.jpg"
 links:
 github: "https://github.com/nadoltitan/RL_in_Traffic_Management"
 facebook: "https://facebook.com/aibuildersx/posts/429097575925354"
 blog: "https://medium.com/@nadoltitan1/%E0%B8%A5%E0%B8%94%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-reinforcement-learning-d3b9c6014863"
 ---
 
-![image](/images/2022/49/49.jpg)
+![image](/images/2022/49/01.jpg)
 
 - โมเดล reinforcement learning (advantage actor-critic; A2C) ทำหรับจัดการไฟจาราจรบนแบบจำลอง Simulation of Urban Mobility (SUMO) ที่สร้างขึ้นมาจากแผนที่จริงผ่าน OpenStreetMap,
 - สร้างแบบจำลองแยกจราจรจากแผนที่ OpenStreetMap บน SUMO ด้วยOSMWebWizard; สร้างไฟล์ .net.xml สำหรับเส้นทางเดินรถ และ .rou.xml สำหรับระบุรถที่เข้ามาในเลน กำหนดให้รถเข้ามาในเลนของแบบจำลองโดยการสุ่ม,

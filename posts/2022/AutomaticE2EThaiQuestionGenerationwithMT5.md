@@ -3,14 +3,14 @@ date: "11-8-22"
 title: "Automatic E2E Thai Question Generation with MT5"
 builder: "ปรินทพัฒน์ เพ็งพันธุ์ (ปริน)"
 builder_info: ""
-thumbnail: "/images/2022/62/62.jpg"
+thumbnail: "/images/2022/62/01.jpg"
 links:
 github: "https://parinzee.github.io/ThaiQuestionGenerationMT5/"
 facebook: "https://facebook.com/aibuildersx/posts/450060740495704"
 blog: "https://medium.com/@parinzee/studying-let-an-ai-generate-q-as-to-quiz-you-9ef27b1554d"
 ---
 
-![image](/images/2022/62/62.jpg)
+![image](/images/2022/62/01.jpg)
 
 - โมเดลสร้างคำถาม factoid จากบทความ; แรงบันดาลใจจาการเทคนิคการทบทวนบทเรียนส่วนตัวที่จะเน้นอ่านไวๆแล้วตอบคำถามท้ายบท ปัญหาคือบางคาบเรียน เช่น วิชาประวัติศาสตร์ ไม่มีคำถามท้ายบทให้ จึงทำโมเดลเพื่อสร้างคำถามขึ้นมาเองจากเนื้อหา,
 - สร้างโมเดล seq2seq ที่ทำงานประมาณนี้:, Input text: สร้าง 2 คำถาม: เฟซบุ๊ก (อังกฤษ: Facebook) เป็นบริการเครือข่ายสังคมสัญชาติอเมริกัน สำนักงานใหญ่อยู่ที่ เมนโลพาร์ก รัฐแคลิฟอร์เนีย เฟซบุ๊กก่อตั้งเมื่อวันพุธที่ 4 กุมภาพันธ์ ค.ศ. 2004, Output text: 1. เฟซบุ๊กคืออะไร A: บริการเครือข่ายสังคมสัญชาติอเมริกัน 2. เฟซบุ๊กก่อตั้งเมื่อไร A: วันที่ 4 กุมภาพันธ์ ค.ศ. 2004,

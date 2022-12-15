@@ -3,14 +3,14 @@ date: "24-7-22"
 title: "Classical Music Generator"
 builder: "มณิสรา แซ่จัน (ฟิล์ม)"
 builder_info: ""
-thumbnail: "/images/2022/44/44.jpg"
+thumbnail: "/images/2022/44/01.jpg"
 links:
 github: "https://github.com/ManissaraZ0/AI-Builders-Deploy"
 facebook: "https://facebook.com/aibuildersx/posts/421598560008589"
 blog: "https://medium.com/@manissara2548/classical-music-generator-d9fc911abc9c"
 ---
 
-![image](/images/2022/44/44.jpg)
+![image](/images/2022/44/01.jpg)
 
 - โมเดลแต่งเพลงคลาสสิคด้วย autoregressive LSTM,
 - แรงบันดาลใจคืออยากมีเพลงที่ทำขึ้นมาไม่ซ้ำใครและเป็นของเราเอง แต่เราไม่จำเป็นต้องเล่นดนตรีด้วยตัวเอง,

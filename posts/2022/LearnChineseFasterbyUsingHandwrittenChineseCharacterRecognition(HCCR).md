@@ -3,14 +3,14 @@ date: "30-7-22"
 title: "Learn Chinese Faster by Using Handwritten Chinese Character Recognition (HCCR)"
 builder: "ภควุฒิ ธรรมาวุฒิกุล (Army)"
 builder_info: ""
-thumbnail: "/images/2022/50/50.jpg"
+thumbnail: "/images/2022/50/01.jpg"
 links:
 github: "https://github.com/GithubArmy/Handwritten-Chinese-Character-Recognition"
 facebook: "https://facebook.com/aibuildersx/posts/429664732535305"
 blog: "https://medium.com/@army.prakawut/learn-chinese-faster-by-using-handwritten-chinese-character-recognition-hccr-67b23c63fb9"
 ---
 
-![image](/images/2022/50/50.jpg)
+![image](/images/2022/50/01.jpg)
 
 - โมเดลทำนายตัวอักษรภาษาจีนจากลายมือ 1,059 ตัวใน HSK4 และ 7,330 ตัวที่ใช้บ่อยด้วย resnet34; ใช้ได้ทั้งทาง webapp และบน Raspberry Pi,
 - ชุดข้อมูลจาก Institute of Automation of Chinese Academy of Sciences; แปลงเป็น png ในชุดข้อมูล pascalbliem/handwritten-chinese-character-hanzi-datasets บน Kaggle,

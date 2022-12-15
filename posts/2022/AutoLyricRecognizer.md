@@ -3,14 +3,14 @@ date: "8-7-22"
 title: "Auto Lyric Recognizer"
 builder: "กิตติพงศ์ เทพอยู่ (ปืน)"
 builder_info: ""
-thumbnail: "/images/2022/28/28.jpg"
+thumbnail: "/images/2022/28/01.jpg"
 links:
 github: "https://github.com/KittpongT/auto_lyric_recognize"
 facebook: "https://facebook.com/aibuildersx/posts/410400524461726"
 blog: "https://medium.com/@puenkittipongtapyou/ai-%E0%B8%96%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-speech-to-text-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-fcca46eeb3df"
 ---
 
-![image](/images/2022/28/28.jpg)
+![image](/images/2022/28/01.jpg)
 
 - โมเดลถอดคำร้องเพลงไทยจากไฟล์เสียงหรือลิ้งค์ YouTube โดยตรง ด้วย Wav2Vec2 ที่ถูกปรับจูน,
 - ใช้ข้อมูล 50 เพลงยอดฮิตบน YouTube ตามยอดคนฟังเป็นความยาว 150 นาที,

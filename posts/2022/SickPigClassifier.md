@@ -3,14 +3,14 @@ date: "17-7-22"
 title: "Sick Pig Classifier"
 builder: "ภวัต ลีชาแสน (บีม)"
 builder_info: ""
-thumbnail: "/images/2022/37/37.jpg"
+thumbnail: "/images/2022/37/01.jpg"
 links:
 github: "https://github.com/Igonazio/Sick-Pig-Classifier"
 facebook: "https://facebook.com/aibuildersx/posts/416533550515090"
 blog: "https://medium.com/@beamsisb/sick-pig-classifier-394db89c3c5d"
 ---
 
-![image](/images/2022/37/37.jpg)
+![image](/images/2022/37/01.jpg)
 
 - โมเดลแยกแยะรูปหมูป่วยด้วย ResNet-18; แรงบันดาลใจจากข่าวโรคอหิวาต์แอฟริกาในสุกร (African swine fever : ASF) ระบาดช่วงต้นปี 2022,
 - ต้องการโมเดลที่ขนาดเล็กสามารถใช้งานได้ง่าย และมีความแม่นยำเพียงพอในการทุ่นแรงมนุษย์ โดยอาจไม่แม่นยำเท่ามนุษย์เนื่องจากการวินิฉัยโรคใช้มากกว่าการมองเห็น,
