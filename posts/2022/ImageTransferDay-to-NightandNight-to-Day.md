@@ -3,14 +3,14 @@ date: "9-7-22"
 title: "Image Transfer Day-to-Night and Night-to-Day"
 builder: "ณฐกร คเชนทร (เท็น)"
 builder_info: ""
-thumbnail: "/images/2022/29.jpg"
+thumbnail: "/images/2022/29/29.jpg"
 links:
 github: "https://github.com/TENet1010/cycleGAN_Night2day"
 facebook: "https://facebook.com/aibuildersx/posts/411124194389359"
 blog: "https://medium.com/@nattakorn2713/image-transfer-night-to-day-and-day-to-night-2086edc6b298"
 ---
 
-![image](/images/2022/29.jpg)
+![image](/images/2022/29/29.jpg)
 
 - เริ่มด้วยปัญหาเวลาเล่น social media ต่างๆแล้วเจอคลิปที่ถ่ายสิ่งลี้ลับ, อะไรที่ดูน่ากลัว หรือพลังงานบางอย่าง เมื่อถูกจับภาพไว้ได้ก็มักจะเป็นภาพที่ไม่ชัดและส่วนใหญ่เป็นตอนกลางคืน บางทีสิ่งเหล่านี้อาจเกินจากการตีความที่ผิดพลาดเนื่องจากละเอียดหายไปกับความมืดจึงอยากที่จะเปลี่ยนภาพพวกนี้ให้เป็นตอนกลางวันสดใส เพื่อดึงรายละเอียดที่หายได้กับความมืดกลับมา,
 - สาเหตุของความไม่ชัดคาดว่าเกิดจาก ความไวแสง (ISO; ยิ่งเพิ่มยิ่งสว่างแต่อยากทำให้เกิด noise), F-stop (เมื่อค่า F-stop ต่ำรูปจะชัดเพียงที่โฟกัสและสว่าง แต่ถ้าค่า F-stop มากก็จะทำให้ชัดทั้งภาพ แต่ภาพก็จะมืด), รวมถึงคุณภาพของกล้องและเลนส์,

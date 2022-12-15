@@ -3,14 +3,14 @@ date: "15-7-22"
 title: "WanchanBERTa Thai Grammarly"
 builder: "อิทธิพัฒน์ ปานขำ (มาร์จิ้น)"
 builder_info: ""
-thumbnail: "/images/2022/35.jpg"
+thumbnail: "/images/2022/35/35.jpg"
 links:
 github: "https://colab.research.google.com/github/bookpanda/WanchanBERTa-Thai-Grammarly/blob/main/demo.ipynb"
 facebook: "https://facebook.com/aibuildersx/posts/415235220644923"
 blog: "https://medium.com/@marginpankam/wanchanberta-thai-grammarly-5010671797c7"
 ---
 
-![image](/images/2022/35.jpg)
+![image](/images/2022/35/35.jpg)
 
 - โมเดลแก้การสะกดคำภาษาไทยด้วยเทคนิค tagging and masking โดยอาศัย WangchanBERTa เป็นโมเดลพื้นฐาน,
 - ปรับจูบนชุดข้อมูล VISTEC-TP-TH-2021 (https://github.com/mrpeerat/OSKut/blob/main/VISTEC-TP-TH-2021) ประกอบด้วยการสะกดคำผิด เช่น ตัวอักษรซ้ำ; มากกกกกก (มาก), รักๆๆๆๆ (รัก ๆ), ไม้ยมกโดยไม่เว้นช่องว่า; ขอบคุณๆ (ขอบคุณ ๆ), คำย่อโดยไม่มีจุด; มิย (มิ.ย.), วรรณยุกต์หาย; แป๊ป (แปป), พิมพ์ตก; อุหนุน (อุดหนุน), จงใจพิมพ์ผิด; นะ (น้า), ณ๊อง (น้อง), พิมพ์ไม่ครบ; อลัง (อลังการ), แบต (แบตเตอรี) เป็นต้น รวม 42,893 ประโยคที่มีการสะกดผิด,

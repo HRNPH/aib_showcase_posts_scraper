@@ -3,14 +3,14 @@ date: "14-7-22"
 title: "Chaos EDM: Generating EDM Song with VAE (Variational Autoencoder) Spectrogram"
 builder: "ณยศ สุวัฒโน (ไมค์กี้)"
 builder_info: ""
-thumbnail: "/images/2022/34.jpg"
+thumbnail: "/images/2022/34/34.jpg"
 links:
 github: "https://github.com/Mikey8943/EDM-spectrogram-vae"
 facebook: "https://facebook.com/aibuildersx/posts/414621047373007"
 blog: "https://medium.com/@nayos.su/generating-edm-song-with-vae-variational-autoencoder-spectrogram-eb6dcd5fc4b8"
 ---
 
-![image](/images/2022/34.jpg)
+![image](/images/2022/34/34.jpg)
 
 - โมเดลแต่งเพลง EDM ด้วย Variational Autoencoder (VAE),
 - แรงบันดาลใจการความชื่นชอบเพลง EDM และโครงการที่ใช้ deep learning เข้ามาช่วยแต่งเพลงอย่าง Magenta Tensorflow,

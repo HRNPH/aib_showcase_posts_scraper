@@ -3,14 +3,14 @@ date: "4-7-22"
 title: "Cactus Classification with Fastai"
 builder: "ปัณณธร กรุดทอง (โฟกัส)"
 builder_info: ""
-thumbnail: "/images/2022/24.jpg"
+thumbnail: "/images/2022/24/24.jpg"
 links:
 github: "https://github.com/Fosacius/cactus_pred"
 facebook: "https://facebook.com/aibuildersx/posts/407556248079487"
 blog: "https://medium.com/@neko2nego/cactus-classification-with-fast-ai-393f8a64cadc"
 ---
 
-![image](/images/2022/24.jpg)
+![image](/images/2022/24/24.jpg)
 
 - โมเดลแยกประเภทแคคตัสที่มีหลากหลายสายพันธุ์ ทั้งต้นกระบองเพชรที่มีหนามที่เราคุ้นเคย ไปจนถึงแก้วมังกรก็เป็นแคคตัสประเภทหนึ่ง,
 - แรงบันดาลใจเกิดจากงานอดิเรกในการปลูกแคคตัส และต้องการดูแลให้ถูกต้องตามสายพันธุ์ โดยเฉพาะมือใหม่ที่อาจจะแยกสายพันธุ์ไม่ออก,

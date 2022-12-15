@@ -3,14 +3,14 @@ date: "12-8-22"
 title: "Using Machine Learning to create Auto Pitch Writer for UTAU"
 builder: "จิรา กุลจิราพงษ์ (จิรา)"
 builder_info: ""
-thumbnail: "/images/2022/63.jpg"
+thumbnail: "/images/2022/63/63.jpg"
 links:
 github: "https://github.com/CCSleep/utau-pitch-ml/"
 facebook: "https://facebook.com/aibuildersx/posts/450681343766977"
 blog: "https://medium.com/@CCSleep/using-machine-learning-to-create-auto-pitch-writer-for-utau-eec2d104236a"
 ---
 
-![image](/images/2022/63.jpg)
+![image](/images/2022/63/63.jpg)
 
 - โมเดลปรับแต่งพิช (Auto Pitch Writer) สำหรับโปรแกรมสร้างเพลง UTAU (คล้าย Vocaloid),
 - [สำคัญมาก] ก่อนอื่นทำความเข้าใจ Tuning ใน UTAU ด้วยวิดีโอ https://youtu.be/ciJlUPlS7dU, , ตัวอย่างเพลงที่ไม่ได้ tune: https://youtu.be/ciJlUPlS7dU?t=59, ตัวอย่างเพลงที่ tune แล้ว: https://youtu.be/ciJlUPlS7dU?t=723, ,

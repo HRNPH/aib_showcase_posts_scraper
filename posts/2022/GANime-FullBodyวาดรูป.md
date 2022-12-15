@@ -3,14 +3,14 @@ date: "8-8-22"
 title: "GANime-FullBody วาดรูปตัวละครอนิเมะ(สาวๆ)แบบเต็มตัว ด้วย Deep Learning"
 builder: "หิรัญกุล พิมพ์ศิริ (ไกด์)"
 builder_info: ""
-thumbnail: "/images/2022/59.jpg"
+thumbnail: "/images/2022/59/59.jpg"
 links:
 github: "https://hrnph.github.io/GANime-FullBody/"
 facebook: "https://facebook.com/aibuildersx/posts/445888770912901"
 blog: "https://medium.com/@hrnph/%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%86-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-deep-learning-ganime-fullbody-9b3822e58934"
 ---
 
-![image](/images/2022/59.jpg)
+![image](/images/2022/59/59.jpg)
 
 - โมเดล Generative Adversarial Network (GAN) สำหรับสร้างรูปวาดตัวละครสาวน้อยอนิเมะ; แรงบันดาลใจจากความชื่นชอบในอนิเมะและประสบการณ์ในการทำเกมที่จำเป็นต้องออกแบบตัวละครใหม่เรื่อยๆ จึงคิดว่าน่าจะสะดวกขึ้นหากมีโมเดลที่สร้างสาวน้อยอนิเมะออกมาให้เลือกปรับใช้กับทั้งเกม, ไลท์โนเวล, รูปประกอบ ฯลฯ,
 - เลือกใช้ GAN มากกว่า Variational Autoencoder (VAE) เนื่องจากได้ภาพที่คมชัดกว่า; ด้วยข้อจำกัดทางเวลาและทรัพยากร ตั้งเป้าสร้างรูปขนาด 32², 64² หรือ 128² pixels,

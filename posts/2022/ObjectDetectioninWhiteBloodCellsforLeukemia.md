@@ -3,14 +3,14 @@ date: "13-8-22"
 title: "Object Detection in White Blood Cells for Leukemia"
 builder: "แพรวา ชูบ้านนา (แพรว)"
 builder_info: ""
-thumbnail: "/images/2022/64.jpg"
+thumbnail: "/images/2022/64/64.jpg"
 links:
 github: "https://github.com/praewery/objectdetction-White_blood_cell"
 facebook: "https://facebook.com/aibuildersx/posts/451374247031020"
 blog: "https://medium.com/@cytokinin8/object-detection-in-white-blood-cell-60273002fdb3"
 ---
 
-![image](/images/2022/64.jpg)
+![image](/images/2022/64/64.jpg)
 
 - โมเดลจับและแยกแยะภาพเซลล์มะเร็งเม็ดเลือดขาวด้วย Faster CNN, YOLO v5 และ Swin Transformer,
 - มะเร็งเม็ดเลือดขาวชนิดเฉียบพลันจัดเป็นโรคมะเร็งที่มีความรุนแรงสูง พบได้ทุกเพศทุกวัย พบมากขึ้นในผู้สูงอายุ และเป็น 1 ใน 10 โรคมะเร็งที่พบบ่อยในประเทศไทย; เซลล์มะเร็งเม็ดเลือดขาวมีหลากหลายชนิด การแบ่งชนิดของมะเร็งเม็ดเลือดขาวจะมีผลต่อการเลือกวิธีการรักษา เนื่องจากมะเร็งเม็ดเลือดขาวแต่ละชนิดมีการดำเนินโรคและการพยากรณ์โรคที่แตกต่างกัน,

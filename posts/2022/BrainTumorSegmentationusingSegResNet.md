@@ -3,14 +3,14 @@ date: "23-7-22"
 title: "Brain Tumor Segmentation using SegResNet"
 builder: "ณัฐวดี ลีภัทรกิจ (กิ่งแก้ว)"
 builder_info: ""
-thumbnail: "/images/2022/43.jpg"
+thumbnail: "/images/2022/43/43.jpg"
 links:
 github: "https://github.com/Kkingssss/Brain-Tumor-Segmentation/tree/main"
 facebook: "https://facebook.com/aibuildersx/posts/420395566795555"
 blog: "https://medium.com/@nattawadee.lee/brain-tumor-segmentation-using-swin-unet-transformers-d003cbe7ba0f"
 ---
 
-![image](/images/2022/43.jpg)
+![image](/images/2022/43/43.jpg)
 
 - โมเดล image segmentation สำหรับเนื้องอกในสมองจากภาพ MRI เพื่อเป็นการช่วยเหลือการทำงานของบุลคลากรทางการแพทย์ทั้งในด้านของเวลาและภาระหน้าที่; การที่จะได้เนื้องอกและปริมาตรของเนื้องอกสมองที่แม่นยำ จะเป็นต้องใช้ผู้เชี่ยวชาญในการระบายสี ภาพสแกนสมอง ซึ่งบางครั้งหากต้องการความแม่นยำสูงอาจต้องใช้มากกว่า 15 นาทีต่อภาพ,
 - เทรนบนข้อมูล Brain Tumor Segmentation (BraTS) challenge 2021 และใช้ fold 1 สำหรับ validation; ข้อมูลเป็นรูปภาพ 3D ของสมอง (1251 Training / 219 Validation),

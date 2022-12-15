@@ -3,14 +3,14 @@ date: "27-7-22"
 title: "Plant Disease Classification"
 builder: "รัชชานนท์ มุขแก้ว (นนท์)"
 builder_info: ""
-thumbnail: "/images/2022/47.jpg"
+thumbnail: "/images/2022/47/47.jpg"
 links:
 github: "https://github.com/RatchanonMo/plant-diseases-classification"
 facebook: "https://facebook.com/aibuildersx/posts/425577722944006"
 blog: "https://medium.com/@49874/plant-diseases-classification-68b103f624d7"
 ---
 
-![image](/images/2022/47.jpg)
+![image](/images/2022/47/47.jpg)
 
 -  โมเดลจำแนกรูปภาพโรคใบพืช 6 ชนิด ได้แก่ เน่าดำ น้ำค้าง ใบจุดดำ ราแป้ง ราดำ ราสนิม,
 - ใช้ DuckDuckGo Image Search และ Google Image Search ในการรวบรวมชุดข้อมูล; ทำความสะอาด**ด้วยมือ** ทำให้ได้ชุดข้อมูลโรคละ 100-200 รูป และใบพืชไม่เป็นโรคอีก 193 รูป; แบ่ง train-test split ที่ 80/20,

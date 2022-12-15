@@ -3,14 +3,14 @@ date: "6-7-22"
 title: "Edge-to-Face: Drawing Realistic Faces from Canny Edges"
 builder: "นิธิศรัฎฐ์ พุฒิภาพงศ์ (พลัส)"
 builder_info: ""
-thumbnail: "/images/2022/26.jpg"
+thumbnail: "/images/2022/26/26.jpg"
 links:
 github: "https://github.com/PluzNtp/Edge-to-Face"
 facebook: "https://facebook.com/aibuildersx/posts/409045037930608"
 blog: "https://medium.com/@nitisarath/edge-to-face-683005cdbbb6"
 ---
 
-![image](/images/2022/26.jpg)
+![image](/images/2022/26/26.jpg)
 
 - โมเดล pix2pix GAN ที่เปลี่ยนรูปร่างหน้าคน (Edges) เป็นรูปภาพหน้าคน,
 - เทรนด้วยชุดข้อมูลหน้าดารา (ส่วนใหญ่จากสหรัฐอเมริกา) รวม 8,760 รูป,

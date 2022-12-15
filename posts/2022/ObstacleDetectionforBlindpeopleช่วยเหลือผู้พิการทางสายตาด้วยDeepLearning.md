@@ -3,14 +3,14 @@ date: "3-8-22"
 title: "Obstacle Detection for Blind people ช่วยเหลือผู้พิการทางสายตาด้วย Deep Learning"
 builder: "เทพบดินทร์ ใจอินสม (ฟู่)"
 builder_info: ""
-thumbnail: "/images/2022/54.jpg"
+thumbnail: "/images/2022/54/54.jpg"
 links:
 github: "https://github.com/thepbordin/Obstacle-Detection-for-Blind-people"
 facebook: "https://facebook.com/aibuildersx/posts/436406668527778"
 blog: "https://medium.com/@thepbordinjaiinsom/obstacle-detection-for-blind-people-d33e3c4e11dd"
 ---
 
-![image](/images/2022/54.jpg)
+![image](/images/2022/54/54.jpg)
 
 - โมเดลตรวจจับสิ่งกีดขวางเพื่อช่วยนำทางผู้พิการทางสายตาด้วย YOLO v5,
 - แรงบันดาลใจจากการเป็นจิตอาสาอ่านหนังสือให้ผู้พิการทางสายตาบน Read for The Blind สนใจการพัฒนา Accessibility ต่างๆให้กับผู้พิการ,

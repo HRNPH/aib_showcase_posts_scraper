@@ -3,14 +3,14 @@ date: "1-7-22"
 title: "BACK (Blind All Can Know) - Action Captioning for Blinds"
 builder: "โชติวัฒน์ ตั้งสถาพร (ไนน์)"
 builder_info: ""
-thumbnail: "/images/2022/21.jpg"
+thumbnail: "/images/2022/21/21.jpg"
 links:
 github: "https://colab.research.google.com/github/cninet/BACK/blob/main/BACK.ipynb"
 facebook: "https://facebook.com/aibuildersx/posts/405337768301335"
 blog: "https://medium.com/@cninet.std/back-blind-all-can-know-action-captioning-a10a3fa85695"
 ---
 
-![image](/images/2022/21.jpg)
+![image](/images/2022/21/21.jpg)
 
 - โมเดลอธิบายรูปภาพ (image captioning) เพื่ออธิบายภาพตรงหน้าให้กับผู้พิการทางสายตา,
 - CLIPCap นำ pretrained CLIP เพื่อสร้าง image embeddings เป็น input ให้กับ pretrained GPT2 สร้างข้อความที่ตรงกับภาพ,

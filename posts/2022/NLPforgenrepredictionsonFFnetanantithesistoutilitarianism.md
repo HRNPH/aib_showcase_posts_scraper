@@ -3,14 +3,14 @@ date: "18-7-22"
 title: "NLP for genre predictions on FFnet: an antithesis to utilitarianism"
 builder: "zeiosis@"
 builder_info: ""
-thumbnail: "/images/2022/38.jpg"
+thumbnail: "/images/2022/38/38.jpg"
 links:
 github: "https://github.com/zeiosis/ffnet-summary-prediction"
 facebook: "https://facebook.com/aibuildersx/posts/417209980447447"
 blog: "https://medium.com/@cryingptosis/nlp-for-genre-predictions-on-ffnet-an-antithesis-to-utilitarianism-4380524ca1fc"
 ---
 
-![image](/images/2022/38.jpg)
+![image](/images/2022/38/38.jpg)
 
 - โมเดลจำแนก genre ของ fan fiction จากบทคัดย่อด้วย BERT; แรงบันดาลใจคืออยากสร้างระบบแท้กอัตโนมัติให้ AO3 (ao3.org) เพราะแท้กปัจจุบันสร้างโดยผู้ใช้และคุณภาพไม่ค่อยดี,
 - เลือก scrape ข้อมูลจาก FFNet (fanfiction.net) เพื่อเป็นชุดข้อมูล เนื่องจากแท้กใน FFNet นั้นคุณภาพเสมอต้นเสมอปลายกว่าและอนุญาตให้ใส่เพียง 2 แท้กต่อเรื่อง,

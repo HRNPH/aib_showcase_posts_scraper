@@ -3,14 +3,14 @@ date: "5-7-22"
 title: "Food Ingredients Label Reader for Food Allergy"
 builder: "พีรณัฐ เมฆวิศิษฏ์ (ปอนด์)"
 builder_info: ""
-thumbnail: "/images/2022/25.jpg"
+thumbnail: "/images/2022/25/25.jpg"
 links:
 github: "https://github.com/ponmak/Food-ingredients-label-reader"
 facebook: "https://facebook.com/aibuildersx/posts/408346911333754"
 blog: "https://medium.com/@peeranut.4498/food-ingredients-label-reader-for-food-allergy-6dea1de06d2"
 ---
 
-![image](/images/2022/25.jpg)
+![image](/images/2022/25/25.jpg)
 
 - โปรแกรมอ่านฉลากสินค้าด้วย pretrained OCR และค้นหาวัตถุดิบที่ผู้ใช้แพ้ด้วย pretrained word vector,
 - แรงบันดาลใจจากครอบครัวที่สายตาสั้นกันทั้งบ้านทำให้เวลาจะอ่านอะไรที่อยู่บนฉลากนั้นเป็นเรื่องยากพอสมควรโดนเฉพาะส่วนประกอบในอาหาร; หลายสินค้าไม่มีการเน้นชื่อวัตถุดิบที่คนแพ้ง่ายให้เห็นชัดเจน,

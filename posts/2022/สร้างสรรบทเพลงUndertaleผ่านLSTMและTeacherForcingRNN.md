@@ -3,14 +3,14 @@ date: "26-7-22"
 title: "สร้างสรรบทเพลง Undertale ผ่าน LSTM และ Teacher Forcing RNN"
 builder: "นพวิทย์ ตันติศิริวัฒน์ (ภีม)"
 builder_info: ""
-thumbnail: "/images/2022/46.jpg"
+thumbnail: "/images/2022/46/46.jpg"
 links:
 github: "https://github.com/Noppawit-Tantisiriwat/AIB2022-Undertale-Music-Generation"
 facebook: "https://facebook.com/aibuildersx/posts/424934103008368"
 blog: "https://medium.com/@noppawitpeam/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87-undertale-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-lstm-%E0%B9%81%E0%B8%A5%E0%B8%B0-teacher-forcing-6053a939bc62"
 ---
 
-![image](/images/2022/46.jpg)
+![image](/images/2022/46/46.jpg)
 
 - โมเดลแต่งเพลงประกอบเกม Undertale ด้วย RNN ที่ถูกเทรนด้วยเทคนิค Teacher Forcing,
 - ในวัยเด็กผมเคยมีประสบการณ์เล่มเกมที่มีชื่อว่า Undertale มันเป็นเกมที่มีเนื้อเรื่องแปลกใหม่ ระบบการเล่นที่สนุก และที่สำคัญที่สุด มันมีเพลงประกอบตัวเกมที่ไพเราะเกินบรรยาย เพลงประกอบเกมนี้ได้กวาดรางวัลมาแล้วมากมาย ขายเป็นแผ่นเสียงได้เป็นกอบเป็นกำและได้ถูกจัดแสดงบนเวทีระดับโลกมาแล้ว ตัวผมจึงอยากลองค้นหาความมหัศจรรย์ของบทเพลงเหล่านี้ ทว่าผมขาดความรู้และพรสวรรค์ทางด้านดนตรีจึงไม่สามารถเข้าใจความสัมพันธ์ของบทเพลงเหล่านี้ได้ ผมจึงลองศึกษาศาสตร์AI ในการวิเคราะห์ความสัมพันธ์เหล่านี้ดู,

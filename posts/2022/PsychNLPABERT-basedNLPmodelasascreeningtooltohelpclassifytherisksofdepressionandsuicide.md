@@ -3,14 +3,14 @@ date: "6-8-22"
 title: "PsychNLP: A BERT-based NLP model as a screening tool to help classify the risks of depression and suicide"
 builder: "พลกฤต สาตสิน (เจ)"
 builder_info: ""
-thumbnail: "/images/2022/57.jpg"
+thumbnail: "/images/2022/57/57.jpg"
 links:
 github: "https://github.com/urseamajoris/PsychNLP"
 facebook: "https://facebook.com/aibuildersx/posts/441008288067616"
 blog: "https://medium.com/@urseamlaccs/psychnlp-part-1-d8180740c0ec"
 ---
 
-![image](/images/2022/57.jpg)
+![image](/images/2022/57/57.jpg)
 
 - โมเดลแยกแยะข้อความ depression, suicidal และ neither จากข้อความในกระทู้ออนไลน์; อยู่ในขั้นตอนการศึกษา ไม่สามารถนำไปวินิฉัยโรคได้จริง โปรดใช้วิจารณญาณในการรับชม,
 - แรงบันดาลใจจากจับใจและสายใจ บอทคัดกรองภาวะซึมเศร้าของโรงพยาบาลศิริราช,

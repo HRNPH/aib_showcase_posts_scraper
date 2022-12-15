@@ -3,14 +3,14 @@ date: "20-7-22"
 title: "Is that a Supra?!"
 builder: "จิตรบุณย์ ทรัพย์สินทวีลาภ (กั๊ต)"
 builder_info: ""
-thumbnail: "/images/2022/40.jpg"
+thumbnail: "/images/2022/40/40.jpg"
 links:
 github: "https://github.com/BikiniGordon/Is-that-a-Supra"
 facebook: "https://facebook.com/aibuildersx/posts/418635413638237"
 blog: "https://medium.com/@gatchanminecraft/is-that-a-supra-thai-version-405cb2231f2b"
 ---
 
-![image](/images/2022/40.jpg)
+![image](/images/2022/40/40.jpg)
 
 - โมเดลแยกรุ่นรถโตโยต้าจากรูปภาพรวม 36 รุ่นที่เป็นที่นิยมในประเทศไทย; แรงบันดาลใจจากคุณพ่อผู้เป็นอดีตวิศวกรโตโยต้า นั่งรถไปด้วยกันแล้วถามชื่อรุ่น บางครั้งคุณพ่อตอบไม่ได้เนื่องจากเป็นรถรุ่นใหม่หลังจากที่คุณพ่อออกจากบริษัทแล้วจึงมึความคิดว่า “ถ้าเรามีระบบที่เราสามารถโยนรูปไป แล้วระบบตอบกลับมาเป็นชื่อรุ่นเลยก็คงจะดี”,
 - เริ่มจากการใช้ชุดข้อมูลที่จัดทำโดย Occulta Insights บน Kaggle ประกอบด้วยรถ 38 รุ่น แต่มีรุ่นที่เป็นที่นิยมในประเทศไทยน้อย เช่น Vios มีเพียง 141 รูป และไม่มีการแยกรุ่นย่อย เช่น yaris ativ หรือ corolla altis,

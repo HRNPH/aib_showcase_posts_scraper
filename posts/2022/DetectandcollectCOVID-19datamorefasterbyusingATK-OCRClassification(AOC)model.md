@@ -3,14 +3,14 @@ date: "4-8-22"
 title: "Detect and collect COVID-19 data more faster by using ATK-OCR Classification (AOC) model"
 builder: "ธนอนันท์ เฉลิมพันธ์ (เอ็ม)"
 builder_info: ""
-thumbnail: "/images/2022/55.jpg"
+thumbnail: "/images/2022/55/55.jpg"
 links:
 github: "https://github.com/Tanaanan/AOC_ATK_OCR_Classification"
 facebook: "https://facebook.com/aibuildersx/posts/437047961796982"
 blog: "www.shorturl.at/apGX5"
 ---
 
-![image](/images/2022/55.jpg)
+![image](/images/2022/55/55.jpg)
 
 - Model คัดกรอง และ บันทึกผลตรวจเชื้อ COVID-19 ผ่านที่ตรวจ ATK (Antigen Test Kit) คู่กับ บัตรประชาชน (Identification Card; ตัวอย่างภาพบัตรประชาชน อ้างอิงมาจาก AIForThai) ด้วย Efficientdet_d2 (Object detection) ควบคู่กับ PyThaiNLP (Natural Language Processing),
 - Dataset ที่ตรวจ ATK ได้จากการทำ Image Scraping ผ่านทาง Web Stock image กับ DuckDuckgo แล้วทำการคัดแยกข้อมูลด้วยมืออีกรอบ (1,500 รูป) ; ส่วนของบัตรประชาชน ใช้ Rules-based programming. (Selection + Edit distance) คู่กับ OCR (Optical Character Recognition) ในการตรวจจับ ชื่อ-นามสกุล และ เลขบัตรประชาชน เนื่องจากไม่สามารถหา Dataset ได้ T T,

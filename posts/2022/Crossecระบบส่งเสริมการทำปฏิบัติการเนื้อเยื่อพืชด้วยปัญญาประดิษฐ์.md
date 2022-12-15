@@ -3,14 +3,14 @@ date: "31-7-22"
 title: "Crossec : ระบบส่งเสริมการทำปฏิบัติการเนื้อเยื่อพืชด้วยปัญญาประดิษฐ์"
 builder: "วิทวัส กิติภัทร์ถาวร (เอิร์ธ)"
 builder_info: ""
-thumbnail: "/images/2022/51.jpg"
+thumbnail: "/images/2022/51/51.jpg"
 links:
 github: "https://github.com/earthwittawat2548/Crossec"
 facebook: "https://facebook.com/aibuildersx/posts/432856865549425"
 blog: "https://medium.com/@wittawatkitipatthavorn/crossec-%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-77613e88fb0a"
 ---
 
-![image](/images/2022/51.jpg)
+![image](/images/2022/51/51.jpg)
 
 - โมเดลจำแนกภาพตัดขวางเนื้อเยื่อพืช 8 ประเภท (ลำต้น ราก ใบ ประเภทต่างๆ) ด้วย ResNet34,
 - แรงบันดาลใจจากการสัมภาษณ์ครูสอนเรื่องการทำปฏิบัติการภาพตัดขวางเนื้อเยื่อพืช ครู 1 คนต้องมีหน้าที่ตรวจชิ้นเนื้อที่นักเรียนประมาณ 40 คนทำการตัดขวาง (cross section) ทำให้ต้องใช้เวลานานหรือจำเป็นต้องจำกัดชนิดของพืชที่เลือกมาทำปฏิบัติการลง,

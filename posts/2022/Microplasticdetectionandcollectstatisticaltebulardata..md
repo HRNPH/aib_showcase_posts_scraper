@@ -3,14 +3,14 @@ date: "21-7-22"
 title: "Microplastic detection and collect statistical tebular data."
 builder: "ภานุวัฒน์ วงศ์พัฒนวุฒิ (ก้อง)"
 builder_info: ""
-thumbnail: "/images/2022/41.jpg"
+thumbnail: "/images/2022/41/41.jpg"
 links:
 github: "https://github.com/kongonggong"
 facebook: "https://facebook.com/aibuildersx/posts/419222536912858"
 blog: "https://medium.com/@kongwongpattanawut_61910/microplastic-detection-and-collect-statistical-tebular-data-8d09339e79d"
 ---
 
-![image](/images/2022/41.jpg)
+![image](/images/2022/41/41.jpg)
 
 - โมเดล object detection คัดแยก microplastic ในน้ำ แยกเป็น fragment, pellet, film, foam และ fiber,
 - เก็บตัวอย่างมาจากแหล่งน้ำต่างๆในจังหวัดมุกดาหาร 6 แหล่ง และนำมาถ่ายในไมโครสโคป ยี่ห้อ Olympus CX23 กำลังขยายเลนส์ใกล้ตา 10x ใกล้วัตถุ 4x; เป็น training set 174 ภาพและ validation set 75 ภาพ,

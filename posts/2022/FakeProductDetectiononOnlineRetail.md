@@ -3,14 +3,14 @@ date: "3-7-22"
 title: "Fake Product Detection on Online Retail"
 builder: "เจษฎา ปราณี (แจ็ค)"
 builder_info: ""
-thumbnail: "/images/2022/23.jpg"
+thumbnail: "/images/2022/23/23.jpg"
 links:
 github: "https://github.com/JackJessada/fake_product_detect"
 facebook: "https://facebook.com/aibuildersx/posts/406851801483265"
 blog: "https://medium.com/@jessadajackpranee/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A-e-commerce-c2d1bb142e2e"
 ---
 
-![image](/images/2022/23.jpg)
+![image](/images/2022/23/23.jpg)
 
 - โมเดลประเมินว่าสินค้าที่ขายออนไลน์ในเว็บไซต์เป็นของแท้, ของปลอม หรือของไม่มีแบรนด์โดยใช้ข้อมูลจากหน้า product detail page,
 - แรงบันดาลใจจากการสำรวจของ intelligencenode ที่ว่าช่วงโรคระบาด COVID-19 มีผู้ใช้พบของปลอมระหว่างเลือกซื้อสินค้าออนไลน์ถึง 38% จากผู้ตอบแบบสอบถามทั้งหมด,

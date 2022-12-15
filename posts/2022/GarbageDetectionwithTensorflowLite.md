@@ -3,14 +3,14 @@ date: "16-7-22"
 title: "Garbage Detection with Tensorflow Lite"
 builder: "กันต์พัจน์ วิเศษสุข (กัน)"
 builder_info: ""
-thumbnail: "/images/2022/36.jpg"
+thumbnail: "/images/2022/36/36.jpg"
 links:
 github: "https://github.com/24GUNV/aibuilders/tree/main/object_detection/images"
 facebook: "https://facebook.com/aibuildersx/posts/415865783915200"
 blog: "https://medium.com/@24progun/object-detection-using-tensorflow-lite-80da8d75c03b"
 ---
 
-![image](/images/2022/36.jpg)
+![image](/images/2022/36/36.jpg)
 
 - โมเดลคัดแยกประเภทขยะจากรูปภาพแบบ real-time ด้วย Tensorflow Lite; แยกลัง, แก้ว, โลหะ, กระดาษ และพลาสติก,
 - เลือกใช้ Tensorflow Lite เนื่องจากต้องการ deploy ลง OrangePi; ต้องการความแม่นยำประมาณ 70-80% เพื่อให้ใช้งานได้จริง,

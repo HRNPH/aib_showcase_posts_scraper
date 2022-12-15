@@ -3,14 +3,14 @@ date: "9-8-22"
 title: "Find Water from Satellite Images Using U-Net Image Segmentation with Pytorch"
 builder: "วรกาญจน์ ลาสุดี (ปีใหม่)"
 builder_info: ""
-thumbnail: "/images/2022/60.jpg"
+thumbnail: "/images/2022/60/60.jpg"
 links:
 github: "https://github.com/19xx47/Find-water-AI-builders-project"
 facebook: "https://facebook.com/aibuildersx/posts/447914850710293"
 blog: "https://medium.com/@worakan.lasudee/found-water-from-satellite-images-by-segmentation-using-u-net-with-pytorch-7b3b0a8abf1d"
 ---
 
-![image](/images/2022/60.jpg)
+![image](/images/2022/60/60.jpg)
 
 - โมเดล semantic segmentation สำหรับหาแหล่งน้ำจากรูปถ่ายดาวเทียมโดยใช้ U-Net,
 - เทรนบนชุดข้อมูล Satellite Images of Water Bodies จาก Kaggle ซึ่งประกอบด้วยสองประเภทคือ Images และ Mask ซึ่งมีจำนวนข้อมูลทั้งหมด 2841 รูป,

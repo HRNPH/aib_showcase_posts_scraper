@@ -3,14 +3,14 @@ date: "28-7-22"
 title: "TLDR; Terms and Conditions Summarizer"
 builder: "ศุภโชค บุตรดีขันธ์ (บูม)"
 builder_info: ""
-thumbnail: "/images/2022/48.jpg"
+thumbnail: "/images/2022/48/48.jpg"
 links:
 github: "https://github.com/Mikune00/ai-text-sum"
 facebook: "https://facebook.com/aibuildersx/posts/427644922737286"
 blog: "https://medium.com/@kaitosolo18/terms-and-condition-summarization-d7f0680f752b"
 ---
 
-![image](/images/2022/48.jpg)
+![image](/images/2022/48/48.jpg)
 
 - ผลจากการสำรวจประชากร Gen Z 100 คนชาวไทยพบว่าเพียง 92% เห็นว่าข้อกำหนดและเงื่อนไขมีความสำคัญ แต่มีเพียง 1% ที่อ่านเต็มๆทุกครั้ง เนื่องจากมันยาวมาก ข้อมูลเยอะเกินไป ไม่น่าอ่านด้วย เสียเวลา และอื่น ๆ อีกมากมาย, "
 - เก็บข้อมูลจากเว็บไซต์ Terms of Service; Didnt Read ที่ประกอบด้วยข้อกำหนดและเงื่อนไขตัวเต็มและคำย่อที่เว็บไซต์ย่อมาให้แล้ว",
